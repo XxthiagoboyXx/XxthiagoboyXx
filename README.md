@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=XxthiagoboyXx" alt="XxthiagoboyXx" /> </p>
 
-<div style="text-align: right">Logic will take you from A to B. Imagination will take you anywhere... </div>
+<div style="text-align: right">"Logic will take you from A to B. Imagination will take you anywhere..." </div>
 
 ## :computer: My Favorite Areas
 * Cyber Security
@@ -34,7 +34,7 @@
  ```python
  class WhoAmI:
  	user = 'Thiago Santos'
-		current_edu = "St. Mary's Group of Institutions"
+		current_edu = "Universidade Federal de Sergipe (UFS)"
 		hobbies = [
 				'Soccer',
 				'Watching Movies',
