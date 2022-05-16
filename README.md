@@ -60,4 +60,4 @@
 ## Other Stuff
   - :octocat: [My Resume](https://github.com/XxthiagoboyXx/)
 
-![Haany's github stats](https://github-readme-stats.vercel.app/api?username=XxthiagoboyXx&show_icons=true&hide=[%22issues%22])
+![Thiago's github stats](https://github-readme-stats.vercel.app/api?username=XxthiagoboyXx&show_icons=true&hide=[%22issues%22])
