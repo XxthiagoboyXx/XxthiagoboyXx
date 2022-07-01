@@ -19,12 +19,14 @@
 * Bug Hunt
 * Frontend and Backend Web Development
   
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=XxthiagoboyXx&layout=compact">
 
 ## Programming Languages
  <img src = 'https://github.com/XxthiagoboyXx/XxthiagoboyXx/blob/main/images/c-original.svg' width='30'/>  
- <img src = 'https://github.com/XxthiagoboyXx/XxthiagoboyXx/blob/main/images/cpp.svg' width='30'/> <img src = 'https://github.com/XxthiagoboyXx/XxthiagoboyXx/blob/main/images/python2.png' height='30'/>  <img src='https://github.com/XxthiagoboyXx/XxthiagoboyXx/blob/main/images/java.svg' width='30'/> <img src = 'https://github.com/XxthiagoboyXx/XxthiagoboyXx/blob/main/images/html.svg' width='30'/> <img src = 'https://github.com/XxthiagoboyXx/XxthiagoboyXx/blob/main/images/css.svg' width='30'/> <img src = 'https://github.com/XxthiagoboyXx/XxthiagoboyXx/blob/main/images/js.svg' width='30'/> 
- <img src = 'https://github.com/XxthiagoboyXx/XxthiagoboyXx/blob/main/images/sql.svg' width='30'/> 
+ <img src = 'https://github.com/XxthiagoboyXx/XxthiagoboyXx/blob/main/images/cpp.svg' width='30'/> <img src = 'https://github.com/XxthiagoboyXx/XxthiagoboyXx/blob/main/images/python2.png' height='30'/>  <img src='https://github.com/XxthiagoboyXx/XxthiagoboyXx/blob/main/images/java.svg' width='30'/> <img src = 'https://github.com/XxthiagoboyXx/XxthiagoboyXx/blob/main/images/html.svg' width='30'/> <img src = 'https://github.com/XxthiagoboyXx/XxthiagoboyXx/blob/main/images/css.svg' width='30'/> <img src = 'https://github.com/XxthiagoboyXx/XxthiagoboyXx/blob/main/images/js.svg' width='30'/>
+ <img src = 'https://github.com/XxthiagoboyXx/XxthiagoboyXx/blob/main/images/sql.svg' width='30'/>
+ <br/> 
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=XxthiagoboyXx&layout=compact">
+ 
  
  ## Technologies I Use
   <img src = 'https://github.com/XxthiagoboyXx/XxthiagoboyXx/blob/main/images/react.svg' width='33'/>
