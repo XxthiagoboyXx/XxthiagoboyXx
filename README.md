@@ -57,7 +57,7 @@
  
 ## Current Works
  * I am currently the **Vice President Director** of the company **Itatech Jr**.
- * Also, I work as a software engineer at Sinutech.
+ * Also, I work as a **Software Engineer** at company **Sinutech**.
  * Digging deeper into the **Bug Hunter** subject.
  
 ## Other Stuff
